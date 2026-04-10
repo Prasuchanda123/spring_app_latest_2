@@ -17,5 +17,5 @@ spec:
           image: myacrrepo584.azurecr.io/springboot-app:6
           imagePullPolicy: Always
           ports:
-            - containerPort: 8085
+            - containerPort: 80
 
